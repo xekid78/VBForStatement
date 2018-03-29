@@ -1,0 +1,11 @@
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\VB\For\For\bin\Debug\netcoreapp2.0\For.deps.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\VB\For\For\bin\Debug\netcoreapp2.0\For.runtimeconfig.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\VB\For\For\bin\Debug\netcoreapp2.0\For.runtimeconfig.dev.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\VB\For\For\bin\Debug\netcoreapp2.0\For.dll
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\VB\For\For\bin\Debug\netcoreapp2.0\For.pdb
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\VB\For\For\obj\Debug\netcoreapp2.0\For.vbprojResolveAssemblyReference.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\VB\For\For\obj\Debug\netcoreapp2.0\For.vbproj.CoreCompileInputs.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\VB\For\For\obj\Debug\netcoreapp2.0\For.AssemblyInfoInputs.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\VB\For\For\obj\Debug\netcoreapp2.0\For.AssemblyInfo.vb
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\VB\For\For\obj\Debug\netcoreapp2.0\For.dll
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\VB\For\For\obj\Debug\netcoreapp2.0\For.pdb
